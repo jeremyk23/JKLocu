@@ -3,7 +3,7 @@ JKLocu
 
 iOS Driver For Locu Venue Search API
 
-I used the [another one with a title](https://github.com/baztokyo/foursquare-ios-api "Foursquare iOS driver") as a skeleton for this driver.
+I used the [BZFoursquare iOS driver](https://github.com/baztokyo/foursquare-ios-api "Foursquare iOS driver") as a skeleton for this driver.
 
 To use, initialize with your api key:
 
